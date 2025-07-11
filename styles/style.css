@@ -1,0 +1,77 @@
+/* fonts */
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 34px;
+  color: #4E47FF;
+}
+
+
+.raleway{
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+}
+
+/* basic uses in everywhere */
+
+.btn-primary{
+    background-color: #4E47FF ;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    
+}
+
+/* banner */
+.header{
+
+background-image: url('../Assets/Hero-bg.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px ;
+
+  
+}
+.banner{
+  margin-top: ;
+}
+
+.banner-title{
+  font-weight: 800;
+  text-align: center;
+  font-size: 65px;
+  color: #252432;
+}
+
+.banner-button{
+  margin-top: 37px;
+  align-items: center;
+  text-align: center;
+
+  
+}
+.banner-content{
+  padding: 158px 267.5px;
+}
+
+
+/* main */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
