@@ -75,3 +75,46 @@ main{
     margin: 0 auto;
 
 }
+
+
+/* live-preview */
+
+.Live-preview{
+  display: flex;
+  max-width: 1140px;
+  max-height: 328px;
+  margin-top: 116px;
+  justify-content: space-between;
+  
+}
+
+.live-preview-column{
+  
+  height: 49px;
+  width: 517px;
+  margin: 62.5px 0;
+  
+}
+
+.Live-preview-title {
+  color: #252432;
+  font-weight: 800;
+  font-size: 42px;
+  line-height: normal;
+  margin: 0;                  
+  margin-bottom: 23px;        
+}
+
+.Live-preview-subtitle {
+  color: #252432;
+  font-size: 24px;
+  opacity: 50%;
+  line-height: normal;
+  margin: 0;                  
+  margin-bottom: 23px;        
+}
+
+.Live-preview-image{
+  border-radius: 48px;
+  margin: 0;
+}
